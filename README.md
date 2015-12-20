@@ -1,4 +1,4 @@
-# RDash rdash-angular-ts
+# rdash-angular-ts
 ## Responsive, bloat free, bootstrap powered admin style dashboard from Startangular.com.
 
 rdash-angular-ts is an Angular 1.4.8 with typescript implementation of the RDash admin dashboard.
